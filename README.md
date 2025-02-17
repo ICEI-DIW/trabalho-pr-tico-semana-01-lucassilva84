@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+
+Nome:Lucas Silva
+Matricula:00884827
 
 ## Tela de inspeção com navegador
 
+![printyoutube](Imagem.png)
 
 ## Tela de projeto no Replit
 
